@@ -18,9 +18,10 @@ function iLoveTheBeatles(number) {
   var beatles = []
   do {
     beatles.push("I love the Beatles")
+    number++
   }
-  while(i  < 15) {
-    i++
+  while(number  < 15) {
+    
   } return beatles
 }
   
